@@ -1,7 +1,7 @@
-###Exploring Spring Framework Basics###
+Exploring Spring Framework Basics
 *Spring Framework Overview*:
 
-Spring is a lightweight, open-source framework that simplifies Java development, particularly in building enterprise applications.
+Spring is a lightweight, open-source framework simplifies Java development, particularly in building enterprise applications.
 Its core concept is dependency injection (DI), which decouples objects and promotes loose coupling, making code easier to test and maintain.
 Key Components:
 
